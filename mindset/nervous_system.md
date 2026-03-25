@@ -10,7 +10,7 @@
 
 ## 1. Amygdala detects "threat"
 
-- The **amygdala (杏仁核)** acts as an emotional alarm system  
+- The **amygdala** acts as an emotional alarm system  
 - It interprets important events as:
   - Evaluation
   - Uncertainty
@@ -35,7 +35,7 @@
 
 ## 3. Prefrontal cortex is suppressed
 
-- The **prefrontal cortex (前额叶皮层)** is responsible for:
+- The **prefrontal cortex** is responsible for:
   - Logical thinking
   - Planning
   - Structured communication
