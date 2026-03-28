@@ -1,4 +1,4 @@
-# HackerRank-Style Mock Technical Assessment
+# Mock Technical Assessment
 
 This mock test is designed to feel close to a typical HackerRank screening for a Java backend candidate.  
 Focus on:
