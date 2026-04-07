@@ -106,16 +106,6 @@ Choosing a company is about evaluating **technology, team, process, and growth p
 
 ---
 
-## 🎯 Interview Questions to Ask
-
-- How is your development process organized?
-- How often do you release to production?
-- Do you have code reviews and testing standards?
-- What does a typical sprint look like?
-- How do you handle technical debt?
-
----
-
 ## 🧠 Final Takeaway
 
 A good company is not just about salary, but about:
